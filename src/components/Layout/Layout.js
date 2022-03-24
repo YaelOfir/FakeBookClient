@@ -1,7 +1,7 @@
 import React from "react";
-import Header from "../Header/Header";
+import Header from "../header/Header";
 
-import classes from "../../styles/Layout.module.scss";
+import classes from "../styles/Layout.module.scss";
 
 const Layout = ({ children }) => {
   return (
